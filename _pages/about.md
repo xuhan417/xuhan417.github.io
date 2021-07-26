@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 * I am a PhD candidate at [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/). My research focus lies in Autonmous Driving, Cooperative Driving Automation, and Intelligent Driving Algorithms.
-* Before joining UCLA, I was a System Development Intern at [GE-Healthcare](https://www.gehealthcare.cn/). My internship projects are CT anatomy recomendation system, and CT-skul image segmentation. 
+* Before joining UCLA, I was a System Development Intern at [GE-Healthcare](https://www.gehealthcare.cn/). My internship projects are CT anatomy recomendation system, and CT image (skull) segmentation. 
 * Before joining GE-China, I was a Deep Learning Intern at [SAIC General Motors Corporation](https://www.gmchina.com/company/cn/en/gm/home.html). I contributed on projects including parking space recognition, face recognition, and autonomous driving simulation.
 * I received my master degree from [WashU](https://wustl.edu/). 
 
