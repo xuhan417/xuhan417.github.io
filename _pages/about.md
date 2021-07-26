@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://xuhan417.github.io/files/mkz.jpeg?raw=true" alt="Photo" /> 
+  <img src="https://xuhan417.github.io/files/mkz.JPG?raw=true" alt="Photo" /> 
 </p>
 
 # About Me
